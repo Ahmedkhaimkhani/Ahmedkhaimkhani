@@ -25,3 +25,16 @@
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedkhaimkhani&show_icons=true&theme=radical)
+
+
+
+## 📂 Featured Projects
+
+- 🔗 [Hyundai Nishat Website](https://github.com/Ahmedkhaimkhani/Hyundai-nishat-private-limited)  
+  *A responsive website clone using HTML, CSS & Bootstrap*
+
+- 🔗 [FabNish Fabric Design](https://github.com/Ahmedkhaimkhani/FabNish)  
+  *Fabric concept UI with modern styling*
+
+- 🔗 [E-Project – Student Portal](https://github.com/Ahmedkhaimkhani/E-project)  
+  *Basic educational portal using frontend technologies*
